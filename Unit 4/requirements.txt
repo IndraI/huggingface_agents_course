@@ -1,0 +1,9 @@
+gradio
+requests
+smolagents
+ddgs
+smolagents[transformers]
+smolagents[openai]
+transformers
+torch
+wikipedia-api
